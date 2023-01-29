@@ -20,7 +20,7 @@
 
 ### Solved Output
 
-![Output](./sol_1.png)
+![Output](./Solved%20Pics/sol_1.png)
 
 2. Website Name: [Apple](https://support.apple.com/en-in)
 
@@ -36,7 +36,7 @@
 
 ### Solved Output
 
-![Output](./sol_2.png)
+![Output](./Solved%20Pics/sol_2.png)
 
 3. Webiste Name: [Youtube Support](https://support.google.com/youtube/)
 
@@ -58,7 +58,7 @@
 
 ### Solved Output
 
-![Output](./sol_3.png)
+![Output](./Solved%20Pics/sol_3.png)
 
 4. Webiste Name: [OnePlus](https://www.oneplus.in/support)
 
@@ -80,7 +80,7 @@
 
 ### Solved Output
 
-![Output](./sol_4.png)
+![Output](./Solved%20Pics/sol_4.png)
 
 5. Webiste Name: [Samsung](https://www.samsung.com/in/offer/online/samsung-fest/)
 
@@ -102,7 +102,7 @@
 
 ### Solved Output
 
-![Output](./sol_5.png)
+![Output](./Solved%20Pics/sol_5.png)
 
 6. Webiste Name: [Adidas](https://www.adidas.co.in/)
 
@@ -124,7 +124,7 @@
 
 ### Solved Output
 
-![Output](./sol_1.png)
+![Output](./Solved%20Pics/sol_6.png)
 
 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
@@ -147,7 +147,7 @@
 
 ### Solved Output
 
-![Output](./sol_7.png)
+![Output](./Solved%20Pics/sol_7.png)
 
 8. Webiste Name: [Google](https://www.google.com/)
 
@@ -165,11 +165,11 @@
 
 ### Output
 
-![Output](./Pic15.png)
+![Output](./Solved%20Pics/sol_8.png)
 
 ### Solved Output
 
-![Output](./sol_8.png)
+![Output](./Solved%20Pics/sol_8.png)
 
 9. Webiste Name: [Code Wars](https://www.codewars.com/)
 
@@ -191,7 +191,7 @@
 
 ### Solved Output
 
-![Output](./sol_9.png)
+![Output](./Solved%20Pics/sol_9.png)
 
 10. Webiste Name: [Freecodecamp](https://www.freecodecamp.org/)
 
@@ -213,7 +213,7 @@
 
 ### Solved Output
 
-![Output](./sol_10.png)
+![Output](./Solved%20Pics/sol_10.png)
 
 11. Webiste Name: [realme](https://www.realme.com/in/)
 
@@ -235,7 +235,7 @@
 
 ### Solved Output
 
-![Output](./sol_11.png)
+![Output](./Solved%20Pics/sol_11.png)
 
 12. Webiste Name: [Github](https://github.com/)
 
@@ -257,7 +257,7 @@
 
 ### Solved Output
 
-![Output](./sol_12.png)
+![Output](./Solved%20Pics/sol_12.png)
 
 13. Webiste Name: [Hackerrank](https://www.hackerrank.com/)
 
@@ -279,7 +279,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Solved Output
 
-![Output](./sol_13.png)
+![Output](./Solved%20Pics/sol_13.png)
 
 14. Webiste Name: [Asus](https://www.asus.com/in/)
 
@@ -301,7 +301,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Solved Output
 
-![Output](./sol_14.png)
+![Output](./Solved%20Pics/sol_14.png)
 
 15. Webiste Name: [Dell](https://www.dell.com/en-in/shop/deals/laptop-deals?gacd=10415953-9016-5761040-285981356-0&dgc=ST&gclid=Cj0KCQjwguGYBhDRARIsAHgRm4-XUDMhhVNyHXb3s1gY4ZBzORr_d9Se-buhJwy7asyUe7YdqEA11eEaAt6UEALw_wcB&gclsrc=aw.ds&nclid=BxjBlpBQsX6pjSHh-L8YYSU77EpfXRkG1AGMB5Wbeu386ykspfrPDnfx_DdFau20)
 
@@ -323,7 +323,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Solved Output
 
-![Output](./sol_15.png)
+![Output](./Solved%20Pics/sol_15.png)
 
 16. Webiste Name: [Vercel](https://vercel.com/)
 
@@ -345,7 +345,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Solved Output
 
-![Output](./sol_16.png)
+![Output](./Solved%20Pics/sol_16.png)
 
 17. Webiste Name: [Sony](https://www.sony.co.in/)
 
@@ -367,7 +367,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Solved Output
 
-![Output](./sol_17.png)
+![Output](./Solved%20Pics/sol_17.png)
 
 18. Webiste Name: [Philips](https://www.philips.co.in/)
 
@@ -389,7 +389,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Solved Output
 
-![Output](./sol_18.png)
+![Output](./Solved%20Pics/sol_18.png)
 
 19. Webiste Name: [Canon](https://in.canon/)
 
@@ -411,7 +411,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Solved Output
 
-![Output](./sol_19.png)
+![Output](./Solved%20Pics/sol_19.png)
 
 20. Webiste Name: [Oppo](https://www.oppo.com/in/)
 
@@ -433,4 +433,4 @@ Target the top description and change “Matching developers with great companie
 
 ### Solved Output
 
-![Output](./sol_20.png)
+![Output](./Solved%20Pics/sol_20.png)
